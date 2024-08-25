@@ -18,7 +18,7 @@ curl -fSsL https://get.docker.com | bash
 # 使用方法
 克隆该项目到本地：
 ```
-git clone https://github.com/hezzya/wireguard-onekey.git
+git clone https://github.com/hezzqi/wireguard-onekey.git
 ```
 
 进入项目目录：`cd wireguard-onekey`
