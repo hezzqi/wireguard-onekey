@@ -58,6 +58,7 @@ fi
 
 docker run -d \
     --name=wg-easy \
+    -e LANG=en \
     -e WG_HOST=$ipv4 \
     -e PASSWORD=$PASSWORD \
     -e WG_DEFAULT_ADDRESS=10.0.8.x \
